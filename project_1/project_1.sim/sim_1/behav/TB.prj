@@ -1,0 +1,9 @@
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR2_OUT.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR2_SEQ_GEN_FSM.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_MATRIX_DISP_V10.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_MATRIX_DISP_V10_ROM.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_Top_V10.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/M_BTN_FILTER_V10.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/M_CLOCK_DIVIDER.v"
+verilog work "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sim_1/imports/LR4/TB.v"
+verilog work K:/XilinxFPGA/14.7/ISE_DS/PlanAhead/data/verilog/src/glbl.v

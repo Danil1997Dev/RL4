@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DARoots Version="1" Minor="26">
+  <FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/import_ise_summary.txt"/>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/LR2_OUT.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LR2_OUT.v"/>
+        <Attr Name="ImportTime" Val="1649601183"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/LR2_SEQ_GEN_FSM.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LR2_SEQ_GEN_FSM.v"/>
+        <Attr Name="ImportTime" Val="1652198984"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/LR4_MATRIX_DISP_V10.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LR4_MATRIX_DISP_V10.v"/>
+        <Attr Name="ImportTime" Val="1652381071"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/LR4_MATRIX_DISP_V10_ROM.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LR4_MATRIX_DISP_V10_ROM.v"/>
+        <Attr Name="ImportTime" Val="1652335195"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/LR4_Top_V10.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LR4_Top_V10.v"/>
+        <Attr Name="ImportTime" Val="1652678136"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/M_BTN_FILTER_V10.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../M_BTN_FILTER_V10.v"/>
+        <Attr Name="ImportTime" Val="1652634231"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/LR4/M_CLOCK_DIVIDER.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../M_CLOCK_DIVIDER.v"/>
+        <Attr Name="ImportTime" Val="1652634240"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+    </Config>
+  </FileSet>
+</DARoots>

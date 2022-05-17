@@ -1,0 +1,1 @@
+-intstyle "pa" -incremental -L "work" -L "unisims_ver" -L "unimacro_ver" -L "xilinxcorelib_ver" -L "secureip" -o "TB.exe" --prj "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.sim/sim_1/behav/TB.prj" -top "work.TB" -top "work.glbl" 

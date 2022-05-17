@@ -1,0 +1,31 @@
+Running: K:\XilinxFPGA\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle pa -incremental -L work -L unisims_ver -L unimacro_ver -L xilinxcorelib_ver -L secureip -o TB.exe --prj D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.sim/sim_1/behav/TB.prj -top work.TB -top work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR2_OUT.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR2_SEQ_GEN_FSM.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_MATRIX_DISP_V10.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_MATRIX_DISP_V10_ROM.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/LR4_Top_V10.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/M_BTN_FILTER_V10.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sources_1/imports/LR4/M_CLOCK_DIVIDER.v" into library work
+Analyzing Verilog file "D:/intelFPGA/18.1/Lab_Verilog/LR4/project_1/project_1.srcs/sim_1/imports/LR4/TB.v" into library work
+Analyzing Verilog file "K:/XilinxFPGA/14.7/ISE_DS/PlanAhead/data/verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module M_CLOCK_DIVIDER_default
+Compiling module M_BTN_FILTER_V10
+Compiling module LR2_OUT
+Compiling module LR2_SEQ_GEN_FSM
+Compiling module LR4_MATRIX_DISP_V10_ROM
+Compiling module LR4_MATRIX_DISP_V10_default
+Compiling module LR4_Top_V10
+Compiling module TB
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable TB.exe
+Fuse Memory Usage: 29928 KB
+Fuse CPU Usage: 468 ms

@@ -1,0 +1,28 @@
+Command line:
+   TB.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64844
+
+Mon May 16 13:49:28 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5164.7 Meg
+
+ Total Signals          : 54
+ Total Nets             : 1092
+ Total Signal Drivers   : 151
+ Total Blocks           : 10
+ Total Primitive Blocks : 6
+ Total Processes        : 172
+ Total Traceable Variables  : 62
+ Total Scalar Nets and Variables : 1708
+
+ Total Simulation Time: 0.96875 sec
+
+ Current Memory Usage: 5007.41 Meg
+
+Mon May 16 13:53:11 2022
+
